@@ -23,6 +23,7 @@ abstract class CoffeeMaker
 
     public function __construct($db)
     {
+        var_dump($db);
         $this->db = $db;
     }
 

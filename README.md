@@ -6,8 +6,8 @@ There's a starter `Barista.example.php` to get you going right away.
 
 Oh, and you'll need to keep track of the coffee you're using, since we don't want to run out. :-)
 
-## Measuring coffee
-The barista needs to know how much coffee grounds are needed for the given brew size. There is a constant `COFFEE_PER_UNIT` that will be helpful.
+<!-- ## Measuring coffee
+The barista needs to know how much coffee grounds are needed for the given brew size. There is a constant `COFFEE_PER_UNIT` that will be helpful. -->
 
 ## Grinding coffee
 The barista needs to grind the coffee, which reduces the amount of coffee in the cupboard by that amount. If that full amount can't be ground from that particular coffee, none of it should be ground.
